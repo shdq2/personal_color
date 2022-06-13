@@ -1,0 +1,15 @@
+node_modules
+target
+target2
+.idea
+src/main/webapp/resources/.idea/resources.iml
+.springBeans
+/src/main/webapp/resources/dist/**
+.factorypath/
+.env
+rebel.xml
+.scannerwork
+sonar-project.properties
+/src/main/webapp/resources/package-lock.json
+*.iml
+*.iml.orig
