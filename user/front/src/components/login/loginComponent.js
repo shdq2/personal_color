@@ -8,7 +8,7 @@ const LoginComponent = ()=>{
             <input type={"text"} value={loginForm.id} onChange={(e)=>setLogin("id",e.target.value)} />
             <input type={"text"} value={loginForm.pw} onChange={(e)=>setLogin("pw",e.target.value)} />
             <input type={"button"} value={"Login"} onClick={userLogin} />
-            test
+            <input type={"button"} value={"Sign Up"} onClick={()=>{}} />
         </div>
     )
 }
